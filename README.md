@@ -11,4 +11,26 @@ A small Python tool to detect suspicious login activity by counting failed login
 1. Place your login CSV file in `data/`
 2. Run the script:
    ```bash
-   python main.py --threshold 5
+   python main.py
+
+Optionally, set a custom threshold:
+
+python main.py --threshold 5
+
+Check data/suspicious_users.csv for flagged users
+
+Skills Demonstrated
+
+Basic log analysis
+
+Anomaly detection
+
+Python scripting
+
+Future Improvements
+
+Detect logins from unexpected countries/IPs
+
+Send email alerts for suspicious activity
+
+Add GUI for easier visualization
