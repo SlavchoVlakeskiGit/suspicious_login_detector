@@ -19,7 +19,7 @@ Optionally, set a custom threshold:
 python main.py --threshold 5
 ```
 
-Check `data/suspicious_users.csv` for flagged users
+Check  `data/suspicious_users.csv` for flagged users
 
 ## Skills Demonstrated
 - Basic log analysis
